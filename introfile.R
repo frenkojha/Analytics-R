@@ -1,5 +1,3 @@
-
-
 #Intro
 
 print("Welcome to the Course Batch -4 of Analytics Edge")
